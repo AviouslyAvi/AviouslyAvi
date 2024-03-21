@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avious
-- 👀 I’m interested in ...IT, Music, and Cinematography
-- 🌱 I’m currently learning ...Network+
-- 💞️ I’m looking to collaborate on ...Tech and Music
+- 🎵 I’m interested in ...IT, Music, and Cinematography
+- 🛜 I’m currently learning ...Networking
+- 💻 I’m looking to collaborate on ...Tech and Music
 - 📫 How to reach me ...abenabram613@gmail.com
 - ⚡ Fun fact: ...I love music!
 
