@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avious
-- 🎵 I’m interested in ...IT, Music, and Cinematography
+- 🎵 I’m interested in ...IT, Audio Engineering, and Learning
 - 🛜 I’m currently learning ...Networking
 - 💻 I’m looking to collaborate on ...Tech and Music
 - 📫 How to reach me ...abenabram613@gmail.com
