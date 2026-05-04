@@ -28,8 +28,8 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
 
 ### 📜 Certifications
 
-[![CompTIA A+](https://img.shields.io/static/v1?label=CompTIA&message=A%2B%20%E2%80%94%20Earned&color=CC0000&style=for-the-badge)](https://www.credly.com/badges/f2187817-d731-45c5-afcb-4be2aade86f8/public_url)
-[![CompTIA Security+](https://img.shields.io/static/v1?label=CompTIA&message=Security%2B%20%E2%80%94%20Earned&color=CC0000&style=for-the-badge)](https://www.credly.com/badges/78cf48f4-8fe9-46cb-85b1-6b2f5060f443/public_url)
+[![CompTIA A+](https://img.shields.io/static/v1?label=CompTIA&message=A%2B%20%E2%80%94%20Earned&color=2ea44f&style=for-the-badge)](https://www.credly.com/badges/f2187817-d731-45c5-afcb-4be2aade86f8/public_url)
+[![CompTIA Security+](https://img.shields.io/static/v1?label=CompTIA&message=Security%2B%20%E2%80%94%20Earned&color=2ea44f&style=for-the-badge)](https://www.credly.com/badges/78cf48f4-8fe9-46cb-85b1-6b2f5060f443/public_url)
 [![Microsoft AZ-900](https://img.shields.io/static/v1?label=Microsoft&message=AZ-900%20%E2%80%94%20In%20Progress&color=0078D4&style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
 
 ---
