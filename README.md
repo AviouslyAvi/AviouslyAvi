@@ -68,7 +68,7 @@ A personal **Proxmox cluster** that's grown into a small private cloud:
 **Networking & DNS**
 - 🛡️ **pfSense** as edge router/firewall — VLAN segmentation, traffic shaping, IDS/IPS, isolated IoT/guest networks
 - 🕳️ **PiHole** as network-wide DNS sinkhole for ad/tracker blocking + custom local DNS records
-- 🔐 **Self-hosted VPN** (WireGuard) for remote access to the lab — no third-party VPN service in the loop
+- 🔐 **Tailscale** mesh VPN for zero-config remote access to lab nodes and services
 - ☁️ **Cloudflare DNS + Tunnels** fronting publicly exposed services (no open inbound ports on the WAN)
 
 **Virtual machines**
