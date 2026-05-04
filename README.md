@@ -9,8 +9,9 @@ I run identity, endpoint, and network operations for a Baltimore philanthropy 鈥
 
 ![IT Systems Administrator](https://img.shields.io/badge/IT_Systems_Administrator-Identity_路_Endpoint_路_Network_路_Security-2ea44f?style=flat-square)
 ![Lumora IT](https://img.shields.io/badge/Principal_Consultant-Lumora_IT-7c3aed?style=flat-square)
-![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B_路_A%2B-CC0000?style=flat-square&logo=comptia&logoColor=white)
-![AZ-900](https://img.shields.io/badge/AZ--900-In_Progress-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Security+](https://img.shields.io/static/v1?label=CompTIA&message=Security%2B&color=CC0000&style=flat-square)
+![A+](https://img.shields.io/static/v1?label=CompTIA&message=A%2B&color=CC0000&style=flat-square)
+![AZ-900](https://img.shields.io/static/v1?label=Microsoft&message=AZ-900%20(in%20progress)&color=0078D4&style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
@@ -27,9 +28,9 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
 
 ### 馃摐 Certifications
 
-[![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-Earned-CC0000?style=for-the-badge)](https://www.credly.com/badges/f2187817-d731-45c5-afcb-4be2aade86f8/public_url)
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Earned-CC0000?style=for-the-badge)](https://www.credly.com/badges/78cf48f4-8fe9-46cb-85b1-6b2f5060f443/public_url)
-[![AZ-900](https://img.shields.io/badge/Microsoft%20AZ--900-In%20Progress-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+[![CompTIA A+](https://img.shields.io/static/v1?label=CompTIA&message=A%2B%20%E2%80%94%20Earned&color=CC0000&style=for-the-badge)](https://www.credly.com/badges/f2187817-d731-45c5-afcb-4be2aade86f8/public_url)
+[![CompTIA Security+](https://img.shields.io/static/v1?label=CompTIA&message=Security%2B%20%E2%80%94%20Earned&color=CC0000&style=for-the-badge)](https://www.credly.com/badges/78cf48f4-8fe9-46cb-85b1-6b2f5060f443/public_url)
+[![Microsoft AZ-900](https://img.shields.io/static/v1?label=Microsoft&message=AZ-900%20%E2%80%94%20In%20Progress&color=0078D4&style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
 
 ---
 
