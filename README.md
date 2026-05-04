@@ -60,11 +60,30 @@ Interactive quiz project.
 
 A personal **Proxmox cluster** that's grown into a small private cloud:
 
-- 🐳 **Docker + Portainer** for containerized self-hosted services
-- 🛡️ **pfSense** router + **PiHole** DNS sinkhole + self-hosted VPN
-- ☁️ **Cloudflare**-fronted services with Cloudflare DNS
-- 🖥️ **GPU-passthrough** Windows + macOS VMs for media + dev workloads
-- 🔧 Backed by **Unraid** and a Dockerized media + game server stack
+**Hypervisor & orchestration**
+- 🖧 **Proxmox VE** cluster running mixed VM + LXC workloads, snapshots, scheduled backups, and live migration between nodes
+- 🐳 **Docker + Docker Compose** managed through **Portainer** for one-pane visibility across container stacks
+- 💾 **Unraid** secondary node handling bulk storage (parity-protected array + cache pool) and a separate Docker stack for media + game servers
+
+**Networking & DNS**
+- 🛡️ **pfSense** as edge router/firewall — VLAN segmentation, traffic shaping, IDS/IPS, isolated IoT/guest networks
+- 🕳️ **PiHole** as network-wide DNS sinkhole for ad/tracker blocking + custom local DNS records
+- 🔐 **Self-hosted VPN** (WireGuard) for remote access to the lab — no third-party VPN service in the loop
+- ☁️ **Cloudflare DNS + Tunnels** fronting publicly exposed services (no open inbound ports on the WAN)
+
+**Virtual machines**
+- 🪟 **Windows VMs** with **GPU passthrough** (PCIe IOMMU) for gaming, music production (Ableton + VST development), and Adobe workloads
+- 🍎 **macOS VMs** for cross-platform plugin testing (ChainHost ships VST3 + standalone on macOS)
+- 🐧 **Debian / Linux VMs** running the Docker host, dev environments, and dedicated app servers
+
+**Self-hosted services**
+- 🎮 **Stardew Valley multiplayer server** — Dockerized on Debian with **KasmVNC** for web-based access, GPU passthrough, persistent volume mounts, and cross-platform Shell / PowerShell / Batch helper scripts
+- 🎥 **nginx-RTMP** stream relay (originally built for a community org — POE IP camera feed relayed across floors and out to the public site)
+- 📺 Media stack (Plex/Jellyfin + the *arr suite) on Unraid
+- 🔄 Scheduled off-site backups + monitoring/alerting
+
+**Why I built it**
+The lab is where I prototype the same patterns I run at work — identity, segmentation, monitoring, lifecycle automation — without anyone's SLA on the line. Most of what shows up in my day job's runbooks was tested here first.
 
 ---
 
