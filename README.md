@@ -34,25 +34,34 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
 
 ---
 
-### 🚀 Featured Projects
+### 🎚️ Audio & Music Production Projects
 
-#### 🎛️ [ChainHost](https://github.com/AviouslyAvi)
-VST3 audio plugin in **C++20 + JUCE 8** with parallel processing chains, MIDI-learnable macro knobs, tempo-synced LFOs, and a preset system. Ships on macOS as VST3 and standalone.
+| Project | Description | Tech |
+|---|---|---|
+| [**ChainHost**](https://github.com/AviouslyAvi/ChainHost) | JUCE VST3 plugin host with parallel processing chains, dry/wet mixing, MIDI-learnable macro knobs, tempo-synced LFOs, and a preset browser | C++20, JUCE 8, VST3 |
+| [**Premonition**](https://github.com/AviouslyAvi/premonition) | Offline reverse-reverb riser generator — bake risers into audio without real-time processing | C, VST3 / AU / CLAP / AAX |
+| [**Stereo Discord Bot**](https://github.com/AviouslyAvi/stereo-discord-bot) | Stereo audio routing into Discord voice channels via a bot account, with a macOS setup guide | macOS, BlackHole, Discord API |
+| [**revis-cloud**](https://github.com/AviouslyAvi/revis-cloud) | Multi-user music collaboration platform | HTML, Web |
+| [**Music-Portfolio**](https://github.com/AviouslyAvi/Music-Portfolio) | Personal music portfolio site | HTML, CSS |
 
-#### 🎮 [Stardew Multiplayer Server](https://github.com/AviouslyAvi)
-Dockerized multiplayer server on **Debian + Docker Compose + KasmVNC** with web VNC, GPU passthrough, persistent volumes, and cross-platform Shell / PowerShell / Batch helper scripts.
+---
 
-#### 🤖 [Stereo Discord Bot](https://github.com/AviouslyAvi)
-Discord bot project — see repo for details.
+### 🌐 Web & App Projects
 
-#### 🔮 [Premonition](https://github.com/AviouslyAvi)
-Personal project — see repo for details.
+| Project | Description | Tech |
+|---|---|---|
+| [**ASPD Quiz**](https://github.com/AviouslyAvi/aspd-quiz) | DSM-5-aligned ASPD self-reflection questionnaire — fully client-side scoring, no data leaves the browser | TypeScript |
+| [**imavious**](https://github.com/AviouslyAvi/imavious) | Personal site / portfolio backing [it.imavious.org](http://it.imavious.org) | TypeScript |
+| [**guitar**](https://github.com/AviouslyAvi/guitar) | Guitar-related tooling / scripting | Python |
 
-#### 🎸 [Guitar](https://github.com/AviouslyAvi)
-Music / guitar tooling project.
+---
 
-#### 🧠 [ASPD Quiz](https://github.com/AviouslyAvi)
-Interactive quiz project.
+### 🏠 Home Lab & Infrastructure Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Proxmox**](https://github.com/AviouslyAvi/Proxmox) | Personal Proxmox cluster configs and notes — see Home Lab section below for the full stack | Proxmox VE, Shell |
+| [**Stardew Multiplayer Server**](https://github.com/AviouslyAvi/Stardew-Multiplayer-Server) | Dockerized multiplayer server on Debian + Docker Compose + KasmVNC with web VNC, GPU passthrough, persistent volumes, and cross-platform helper scripts | Debian, Docker Compose, KasmVNC, Shell / PowerShell / Batch |
 
 ---
 
