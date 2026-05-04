@@ -36,23 +36,73 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
 
 ### 🎚️ Audio & Music Production Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [**ChainHost**](https://github.com/AviouslyAvi/ChainHost) | JUCE VST3 plugin host with parallel processing chains, dry/wet mixing, MIDI-learnable macro knobs, tempo-synced LFOs, and a preset browser | C++20, JUCE 8, VST3 |
-| [**Premonition**](https://github.com/AviouslyAvi/premonition) | Offline reverse-reverb riser generator — bake risers into audio without real-time processing | C, VST3 / AU / CLAP / AAX |
-| [**Stereo Discord Bot**](https://github.com/AviouslyAvi/stereo-discord-bot) | Stereo audio routing into Discord voice channels via a bot account, with a macOS setup guide | macOS, BlackHole, Discord API |
-| [**revis-cloud**](https://github.com/AviouslyAvi/revis-cloud) | Multi-user music collaboration platform | HTML, Web |
-| [**Music-Portfolio**](https://github.com/AviouslyAvi/Music-Portfolio) | Personal music portfolio site | HTML, CSS |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%">Project</th>
+      <th width="55%">Description</th>
+      <th width="25%">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/ChainHost"><b>ChainHost</b></a></td>
+      <td>JUCE VST3 plugin host with parallel processing chains, dry/wet mixing, MIDI-learnable macro knobs, tempo-synced LFOs, and a preset browser</td>
+      <td>C++20, JUCE 8, VST3</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/premonition"><b>Premonition</b></a></td>
+      <td>Offline reverse-reverb riser generator — bake risers into audio without real-time processing</td>
+      <td>C, VST3 / AU / CLAP / AAX</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/stereo-discord-bot"><b>Stereo Discord Bot</b></a></td>
+      <td>Stereo audio routing into Discord voice channels via a bot account, with a macOS setup guide</td>
+      <td>macOS, BlackHole, Discord API</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/revis-cloud"><b>revis-cloud</b></a></td>
+      <td>Multi-user music collaboration platform</td>
+      <td>HTML, Web</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/Music-Portfolio"><b>Music-Portfolio</b></a></td>
+      <td>Personal music portfolio site</td>
+      <td>HTML, CSS</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ### 🌐 Web & App Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [**ASPD Quiz**](https://github.com/AviouslyAvi/aspd-quiz) | DSM-5-aligned ASPD self-reflection questionnaire — fully client-side scoring, no data leaves the browser | TypeScript |
-| [**imavious**](https://github.com/AviouslyAvi/imavious) | Personal site / portfolio backing [it.imavious.org](http://it.imavious.org) | TypeScript |
-| [**guitar**](https://github.com/AviouslyAvi/guitar) | Guitar-related tooling / scripting | Python |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%">Project</th>
+      <th width="55%">Description</th>
+      <th width="25%">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/aspd-quiz"><b>ASPD Quiz</b></a></td>
+      <td>DSM-5-aligned ASPD self-reflection questionnaire — fully client-side scoring, no data leaves the browser</td>
+      <td>TypeScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/imavious"><b>imavious</b></a></td>
+      <td>Personal site / portfolio backing <a href="http://it.imavious.org">it.imavious.org</a></td>
+      <td>TypeScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/guitar"><b>guitar</b></a></td>
+      <td>Guitar-related tooling / scripting</td>
+      <td>Python</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---
