@@ -54,14 +54,6 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
 | [**imavious**](https://github.com/AviouslyAvi/imavious) | Personal site / portfolio backing [it.imavious.org](http://it.imavious.org) | TypeScript |
 | [**guitar**](https://github.com/AviouslyAvi/guitar) | Guitar-related tooling / scripting | Python |
 
----
-
-### 🏠 Home Lab & Infrastructure Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**Proxmox**](https://github.com/AviouslyAvi/Proxmox) | Personal Proxmox cluster configs and notes — see Home Lab section below for the full stack | Proxmox VE, Shell |
-| [**Stardew Multiplayer Server**](https://github.com/AviouslyAvi/Stardew-Multiplayer-Server) | Dockerized multiplayer server on Debian + Docker Compose + KasmVNC with web VNC, GPU passthrough, persistent volumes, and cross-platform helper scripts | Debian, Docker Compose, KasmVNC, Shell / PowerShell / Batch |
 
 ---
 
