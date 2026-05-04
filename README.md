@@ -109,8 +109,8 @@ A personal **Proxmox cluster** that's grown into a small private cloud:
 
 ### 📊 GitHub
 
-![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AviouslyAvi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AviouslyAvi&layout=compact&hide_border=true)
+![Avi's GitHub stats](https://aviouslyavi-grs.vercel.app/api?username=AviouslyAvi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://aviouslyavi-grs.vercel.app/api/top-langs/?username=AviouslyAvi&layout=compact&hide_border=true)
 
 ---
 
