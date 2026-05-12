@@ -46,22 +46,27 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/AviouslyAvi/ChainHost"><b>ChainHost</b></a></td>
+      <td><b>ChainHost-VST</b> <i>(private)</i></td>
       <td>JUCE VST3 plugin host with parallel processing chains, dry/wet mixing, MIDI-learnable macro knobs, tempo-synced LFOs, and a preset browser</td>
       <td>C++20, JUCE 8, VST3</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AviouslyAvi/premonition"><b>Premonition</b></a></td>
+      <td><b>Premonition-VST</b> <i>(private)</i></td>
       <td>Offline reverse-reverb riser generator — bake risers into audio without real-time processing</td>
       <td>C, VST3 / AU / CLAP / AAX</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AviouslyAvi/stereo-discord-bot"><b>Stereo Discord Bot</b></a></td>
+      <td><a href="https://github.com/AviouslyAvi/MaxForLive-ParameterRandomizer"><b>MaxForLive-ParameterRandomizer</b></a></td>
+      <td>Max for Live device that randomizes any mapped Ableton parameter</td>
+      <td>Max for Live</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/Stereo-Discord-Bot"><b>Stereo-Discord-Bot</b></a></td>
       <td>Stereo audio routing into Discord voice channels via a bot account, with a macOS setup guide</td>
       <td>macOS, BlackHole, Discord API</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AviouslyAvi/revis-cloud"><b>revis-cloud</b></a></td>
+      <td><a href="https://github.com/AviouslyAvi/Revis-cloud"><b>Revis-cloud</b></a></td>
       <td>Multi-user music collaboration platform</td>
       <td>HTML, Web</td>
     </tr>
@@ -87,19 +92,108 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/AviouslyAvi/aspd-quiz"><b>ASPD Quiz</b></a></td>
+      <td><a href="https://github.com/AviouslyAvi/Watch-Party"><b>Watch-Party</b></a></td>
+      <td>Teleparty-style synchronized watch party for cineby.sc</td>
+      <td>TypeScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/IT-Portfolio"><b>IT-Portfolio</b></a></td>
+      <td>IT systems administration portfolio site</td>
+      <td>TypeScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/Avious-Webpage"><b>Avious-Webpage</b></a></td>
+      <td>Avious Music — React + Vite single-page site with Gemini-powered AI features (backs <a href="http://it.imavious.org">imavious.org</a>)</td>
+      <td>JavaScript, React, Vite</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/Aspd-quiz"><b>Aspd-quiz</b></a></td>
       <td>DSM-5-aligned ASPD self-reflection questionnaire — fully client-side scoring, no data leaves the browser</td>
       <td>TypeScript</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AviouslyAvi/imavious"><b>imavious</b></a></td>
-      <td>Personal site / portfolio backing <a href="http://it.imavious.org">it.imavious.org</a></td>
+      <td><a href="https://github.com/AviouslyAvi/Guitar-Tutor"><b>Guitar-Tutor</b></a></td>
+      <td>Guitar tutoring web app</td>
       <td>TypeScript</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AviouslyAvi/guitar"><b>guitar</b></a></td>
-      <td>Guitar-related tooling / scripting</td>
+      <td><a href="https://github.com/AviouslyAvi/Guitar-and-Piano-Tutor"><b>Guitar-and-Piano-Tutor</b></a></td>
+      <td>Guitar + piano practice tooling</td>
       <td>Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/Kinetic-Typo"><b>Kinetic-Typo</b></a></td>
+      <td>Remotion video sketch — kinetic typography rendered to MP4</td>
+      <td>TypeScript, Remotion</td>
+    </tr>
+    <tr>
+      <td><b>Personal-Spending-Dashboard</b> <i>(private)</i></td>
+      <td>Local-only personal finance dashboard — log transactions, categorize, track accounts/income, visualize trends with Chart.js</td>
+      <td>Node.js, HTML/JS, Chart.js</td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
+### 🎮 Games & Mods
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%">Project</th>
+      <th width="55%">Description</th>
+      <th width="25%">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/Peak-Run-Save"><b>Peak-Run-Save</b></a></td>
+      <td>BepInEx mod for the climbing game PEAK that saves/restores run state</td>
+      <td>C#, BepInEx</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/Stardew-Multiplayer-Server"><b>Stardew-Multiplayer-Server</b></a></td>
+      <td>Dockerized Stardew Valley dedicated server with KasmVNC web access and cross-platform helper scripts</td>
+      <td>Shell, Docker, KasmVNC</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/Crossover-Trial-Script"><b>Crossover-Trial-Script</b></a></td>
+      <td>CrossOver trial-reset shell scripts for macOS</td>
+      <td>Shell, macOS</td>
+    </tr>
+    <tr>
+      <td><b>Joja-Minecraft</b> <i>(private)</i></td>
+      <td>Configuration backup for a Paper 26.1.2 Minecraft server (configs + plugins only; world/JAR excluded)</td>
+      <td>Paper, Java, Batch</td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
+### 📓 IT Runbooks & Notes
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%">Project</th>
+      <th width="55%">Description</th>
+      <th width="25%">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Proxmox</b> <i>(private)</i></td>
+      <td>Personal Proxmox runbook collection — Tailscale setup, Nextcloud SaaS exposure, macOS quirks, certificate fixes</td>
+      <td>Proxmox, PDF notes</td>
+    </tr>
+    <tr>
+      <td><b>Zoom-Training-Project</b> <i>(private)</i></td>
+      <td>Zoom Rooms / AV training materials and rollout notes</td>
+      <td>Docs, AV</td>
     </tr>
   </tbody>
 </table>
