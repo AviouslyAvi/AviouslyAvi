@@ -102,7 +102,7 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
       <td>TypeScript</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AviouslyAvi/Avious-Webpage"><b>Avious-Webpage</b></a></td>
+      <td><b>Avious-Webpage</b> <i>(private)</i></td>
       <td>Avious Music — React + Vite single-page site with Gemini-powered AI features (backs <a href="http://it.imavious.org">imavious.org</a>)</td>
       <td>JavaScript, React, Vite</td>
     </tr>
