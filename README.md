@@ -66,6 +66,11 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
       <td>macOS, BlackHole, Discord API</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/AviouslyAvi/Discord-Bot-Learning"><b>Discord-Bot-Learning</b></a> <i>(WIP)</i></td>
+      <td>Sandbox for learning Discord bot development end-to-end — gateway events, slash commands, voice, and deployment</td>
+      <td>Discord API</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/AviouslyAvi/Revis-cloud"><b>Revis-cloud</b></a></td>
       <td>Multi-user music collaboration platform</td>
       <td>HTML, Web</td>
