@@ -75,6 +75,11 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
       <td>Personal music portfolio site</td>
       <td>HTML, CSS</td>
     </tr>
+    <tr>
+      <td><b>Avious-Documents</b> <i>(private)</i></td>
+      <td>Avious Music brand vault — brand foundation, launch-day copy, launch plan, pricing one-pager, outfit guide, DAW comparison, and a North Star template</td>
+      <td>Markdown, HTML, PDF</td>
+    </tr>
   </tbody>
 </table>
 
@@ -171,6 +176,32 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
   </tbody>
 </table>
 
+
+---
+
+### 🔌 Developer Tools & Workspaces
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%">Project</th>
+      <th width="55%">Description</th>
+      <th width="25%">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/Avious-Claude-Commands"><b>Avious-Claude-Commands</b></a></td>
+      <td>Consolidated Claude Code plugin holding every Avious-prefixed slash command and skill — Cowork workspace routing (handoff / resume / log / close / scaffold / optimizer), prompt utilities, GPT-Polish, yt-transcript, Bandung kos search</td>
+      <td>Python, Claude Code plugin</td>
+    </tr>
+    <tr>
+      <td><b>General-Research</b> <i>(private)</i></td>
+      <td>Cowork research workspace — three-layer routing structure (foundation, sources, notes, syntheses) with a Notion workspace handoff, used for cross-domain research projects</td>
+      <td>Cowork, Markdown</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
