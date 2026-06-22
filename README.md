@@ -22,6 +22,7 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
 - 🏢 **IT Systems Administrator** @ Annie E. Casey Foundation
 - 🛠️ **Principal Consultant** @ [Lumora IT](http://it.imavious.org) — networks, AV, endpoints for SMB / nonprofit clients
 - 🎚️ Off-hours: VST3 plugin development, Ableton, and a Proxmox cluster that refuses to stay simple
+- ☁️ Run a handful of **VPS instances** hosting the servers and services that power the tools I build (relays, APIs, game servers, web apps)
 - 📍 Baltimore, MD
 
 ---
@@ -287,6 +288,9 @@ A personal **Proxmox cluster** that's grown into a small private cloud:
 - 🎥 **nginx-RTMP** stream relay (originally built for a community org — POE IP camera feed relayed across floors and out to the public site)
 - 📺 Media stack (Plex/Jellyfin + the *arr suite) on Unraid
 - 🔄 Scheduled off-site backups + monitoring/alerting
+
+**Cloud / VPS**
+- ☁️ A handful of **VPS instances** running the always-on servers and services that power the tools I build — WebSocket/relay backends, APIs, dedicated game servers, and public-facing web apps — so they stay up independent of the home lab. Hardened with key-only SSH, firewalling, and reverse proxies fronting each service.
 
 **Why I built it**
 The lab is where I prototype the same patterns I run at work — identity, segmentation, monitoring, lifecycle automation — without anyone's SLA on the line. Most of what shows up in my day job's runbooks was tested here first.
