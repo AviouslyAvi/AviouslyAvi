@@ -46,6 +46,11 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/AviouslyAvi/ableton-extensions"><b>ableton-extensions</b></a></td>
+      <td>Workspace for building Ableton Live extensions — headlined by <b>Similar Samples</b>, acoustic sample matching that drops matched takes straight into take lanes</td>
+      <td>JS, Ableton Live API</td>
+    </tr>
+    <tr>
       <td><b>ChainHost-VST</b> <i>(private)</i></td>
       <td>JUCE VST3 plugin host with parallel processing chains, dry/wet mixing, MIDI-learnable macro knobs, tempo-synced LFOs, and a preset browser</td>
       <td>C++20, JUCE 8, VST3</td>
@@ -137,6 +142,11 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
       <td>TypeScript, Remotion</td>
     </tr>
     <tr>
+      <td><b>day-app</b> <i>(private)</i></td>
+      <td>Day — a calm, ADHD-friendly Notion-lite: local-first journal, tasks, and projects in one quiet workspace</td>
+      <td>TypeScript</td>
+    </tr>
+    <tr>
       <td><b>Personal-Spending-Dashboard</b> <i>(private)</i></td>
       <td>Local-only personal finance dashboard — log transactions, categorize, track accounts/income, visualize trends with Chart.js</td>
       <td>Node.js, HTML/JS, Chart.js</td>
@@ -204,6 +214,21 @@ IT Systems Administrator with **4+ years on mixed-OS fleets** at a Baltimore fou
       <td><b>General-Research</b> <i>(private)</i></td>
       <td>Cowork research workspace — three-layer routing structure (foundation, sources, notes, syntheses) with a Notion workspace handoff, used for cross-domain research projects</td>
       <td>Cowork, Markdown</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AviouslyAvi/learning-roadmap"><b>learning-roadmap</b></a></td>
+      <td>Public log of what I'm teaching myself — Linux/server admin, IaC, networking, game-server ops. Auto-updated nightly via CI.</td>
+      <td>HCL, Terraform, CI</td>
+    </tr>
+    <tr>
+      <td><b>claude-smb-workshop</b> <i>(private)</i></td>
+      <td>Claude-for-SMB workshop workspace — three-layer routing structure teaching the 4Ds framework, repeatable recipes, and hands-on exercises</td>
+      <td>Markdown, Cowork</td>
+    </tr>
+    <tr>
+      <td><b>lazy-by-design</b> <i>(private)</i></td>
+      <td>Lazy by Design — studio workspace spanning brand, offerings, business-ops, learning, and session handoffs</td>
+      <td>Markdown, Cowork</td>
     </tr>
   </tbody>
 </table>
